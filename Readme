@@ -1,0 +1,15 @@
+## 📊 Project Status & Roadmap
+
+**Estado Actual:** `MVP - Estable` ✅
+*   [x] Implementacion de arquitectura por capas.
+*   [x] Gestion de mensajes (CRUD parcial).
+*   [x] Sistema de validacion de esquemas con Zod.
+*   [x] Manejo de errores centralizado.
+*   [x] Cobertura de pruebas base.
+*   [x] Documentaciones swagger integrada.
+
+**Proximos Pasos (Roadmap):**
+*   [ ] Implementacion de Autenticacion y Autorizacion (JWT).
+*   [ ] Implementacion de filtrado y paginacion avanzada en `GET /messages`.
+*   [ ] Refactorizacion para soporte de TypeScript.
+*   [ ] Implementacion de integracion con Docker.

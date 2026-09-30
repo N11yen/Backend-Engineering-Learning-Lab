@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE "Message"
+ADD COLUMN "author" TEXT,
+ADD COLUMN "read" BOOLEAN NOT NULL DEFAULT false;

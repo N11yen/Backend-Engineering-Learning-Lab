@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "text": "Hola mundo",
+    "read": false,
+    "author": "Juan"
+  },
+  {
+    "id": 2,
+    "text": "Mensaje 2",
+    "read": false,
+    "author": "Juan"
+  },
+  {
+    "id": 3,
+    "text": "Mensaje 3",
+    "read": false,
+    "author": "Ana"
+  },
+  {
+    "id": 4,
+    "text": "Mensaje 4",
+    "read": false,
+    "author": "Pedro"
+  },
+  {
+    "id": 5,
+    "text": "Mensaje 5",
+    "read": false,
+    "author": "Ana"
+  },
+  {
+    "id": 6,
+    "text": "Mensaje 6",
+    "read": false,
+    "author": "Juan"
+  },
+  {
+    "id": 7,
+    "text": "Nuevo mensaje",
+    "read": false,
+    "author": "Carlos"
+  }
+]
